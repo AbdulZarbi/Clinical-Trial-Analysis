@@ -1,4 +1,5 @@
 # Clinical Trial Analysis
+
 ## Overview
 The dataset comes from an imaginary randomized clinical trial comparing the results of two interventions (coded under the variable GROUP)
 
@@ -41,12 +42,11 @@ The dataset comes from an imaginary randomized clinical trial comparing the resu
 - Short follow-up period
 - Limited generalizability due to intervention variability
 
-## Tools Used
+## Analytics tool
 - Excel for data entry and cleaning
 - Excel for statistical testing and plotting
 - Powerpoint (Key Finding Presnetation)
 
 ## Contact
-## Abdul Zarbi 
 - Email: zarbi786@gmail.com 
 - LinkedIn: www.linkedin.com/in/abdulzarbi
