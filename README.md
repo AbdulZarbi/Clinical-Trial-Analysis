@@ -1,4 +1,4 @@
-# Clinical Trial Analysis
+# Clinical Trial Analysis (Excel Project)
 
 ## Overview
 The dataset comes from an imaginary randomized clinical trial comparing the results of two interventions (coded under the variable GROUP)
