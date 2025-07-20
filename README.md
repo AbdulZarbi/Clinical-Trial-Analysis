@@ -3,6 +3,8 @@
 ## Overview
 The dataset comes from an imaginary randomized clinical trial comparing the results of two interventions (coded under the variable GROUP)
 
+This repo consist of the following documents. By reviewing the key finding and dataset if you have any feedback or inputs to make it comperhensive pleaes let me know. 
+
 1.	Group 1 received an intervention that is established in the field and its effectiveness is supported by evidence from past clinical trials. 
 2. 	Group 2 received a new intervention for which little research has been done. 
 3.	The 100 imaginary participants were all war survivors but some of them had been tortured in addition to their war experiences (coded under the variable TORTURE). 
